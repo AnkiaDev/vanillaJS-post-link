@@ -1,0 +1,32 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #eee;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+span {
+    font-weight: normal;
+    font-size: 80%;
+}
+
+.lien {
+    background: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#formulaire {
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+#msgInfo {
+    background: #d6ecf6;
+    color: #1c80b9;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 25px;
+    margin-top: 10px;
+}
